@@ -11,3 +11,7 @@
 * From reddit user austingwalters in this reddit thread:
  https://www.reddit.com/r/udub/comments/4e6kxl/i_made_a_website_that_shows_grade_distributions/
 * Dataset and FOIA info from their dropbox: https://www.dropbox.com/scl/fo/8lbyazjlt5jmv86jvvs06/AGtgMaWeyZtZuS2fSYLYn_4?dl=0&e=1&rlkey=1sg7t372nhslxogwjl3e9lt9t
+
+## State population
+* NST-EST2020-POP.csv
+* From the US Census: https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
